@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 it is a text
-=======
-hello word!
->>>>>>> dev
+

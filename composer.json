@@ -1,0 +1,14 @@
+{
+    "name": "laravist/help",
+    "description": "help demo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "梅养英",
+            "email": "1027313672@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
